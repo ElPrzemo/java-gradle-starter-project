@@ -38,9 +38,9 @@ public class App extends Application {
     public void start(Stage stage) {
 
         // set the title and size of the stage and show it
-        stage.setTitle("Next change of Title');
-        stage.setWidth(800);
-        stage.setHeight(700);
+        stage.setTitle("Next change of Title");
+        stage.setWidth(1500);
+        stage.setHeight(900);
         stage.show();
 
         System.out.println("Tutaj będą fajne zmiany");
