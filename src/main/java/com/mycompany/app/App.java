@@ -43,7 +43,7 @@ public class App extends Application {
         stage.setHeight(9066656550);
         stage.show();
 
-        System.out.println("Tutaj będą fajne zmiany");
+        System.out.println("Tutaj będą głupie zmiany");
         System.out.println("Tutaj będą fajne zmiany");
 
 
