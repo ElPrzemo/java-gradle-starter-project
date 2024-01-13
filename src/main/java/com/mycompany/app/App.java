@@ -37,12 +37,24 @@ public class App extends Application {
     @Override
     public void start(Stage stage) {
 
+
         // set the title and size of the stage and show it
         stage.setTitle("Software Developoment Academy");
         stage.setWidth(1366);
         stage.setHeight(768);
         stage.show();
 
+        System.out.println("Tutaj będą głupie zmiany");
+        System.out.println("Tutaj będą fajne zmiany");
+
+
+        System.out.println("Tutaj będą głupie zmiany");
+        System.out.println("Tutaj będą fajne zmiany");
+        System.out.println("Tutaj będą głupie zmiany");
+        System.out.println("Tutaj będą fajne zmiany");
+        System.out.println("Tutaj będą głupie zmiany");
+        System.out.println("Tutaj będą fajne zmiany");
+v
         // create a JavaFX scene with a stack pane as the root node and add it to the scene
         StackPane stackPane = new StackPane();
         Scene scene = new Scene(stackPane);
