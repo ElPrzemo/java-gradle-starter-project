@@ -44,6 +44,7 @@ public class App extends Application {
         stage.show();
 
         System.out.println("Tutaj będą fajne zmiany");
+        System.out.println("Tutaj będą fajne zmiany");
 
 
         // create a JavaFX scene with a stack pane as the root node and add it to the scene
