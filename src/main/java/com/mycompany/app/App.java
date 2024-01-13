@@ -37,8 +37,12 @@ public class App extends Application {
     @Override
     public void start(Stage stage) {
 
-        System.out.println("Tutaj będą głupie zmiany");
-        System.out.println("Tutaj będą fajne zmiany");
+
+        // set the title and size of the stage and show it
+        stage.setTitle("Software Developoment Academy");
+        stage.setWidth(1366);
+        stage.setHeight(768);
+        stage.show();
 
         System.out.println("Tutaj będą głupie zmiany");
         System.out.println("Tutaj będą fajne zmiany");
