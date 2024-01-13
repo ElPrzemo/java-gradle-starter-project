@@ -38,10 +38,13 @@ public class App extends Application {
     public void start(Stage stage) {
 
         // set the title and size of the stage and show it
-        stage.setTitle("My Map App");
+        stage.setTitle("Next change of Title);
         stage.setWidth(800);
         stage.setHeight(700);
         stage.show();
+
+        System.out.println("Tutaj będą fajne zmiany");
+
 
         // create a JavaFX scene with a stack pane as the root node and add it to the scene
         StackPane stackPane = new StackPane();
